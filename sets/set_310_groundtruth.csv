@@ -1,0 +1,311 @@
+pdb,asym,kind,locus,L,pep,core,p1_index,start,reverse,rel,res,has_tcr,method,title
+1A6A,C,sep,DR,15,PVSKMRMATPLLMQA,MRMATPLLM,4,4,False,1998-05-27,2.75,False,X-ray,THE STRUCTURE OF AN INTERMEDIATE IN CLASS II MHC MATURATION: CLIP BOUND TO HLA-DR3
+1AQD,C,sep,DR,14,GSDWRFLRGYHQYA,WRFLRGYHQ,3,3,False,1998-01-28,2.45,False,X-ray,"HLA-DR1 (DRA, DRB1 0101) HUMAN CLASS II HISTOCOMPATIBILITY PROTEIN (EXTRACELLULAR DOMAIN) COMPLEXED WITH ENDOGENOUS PEPTIDE"
+1AQD,F,sep,DR,13,SDWRFLRGYHQYA,WRFLRGYHQ,2,2,False,1998-01-28,2.45,False,X-ray,"HLA-DR1 (DRA, DRB1 0101) HUMAN CLASS II HISTOCOMPATIBILITY PROTEIN (EXTRACELLULAR DOMAIN) COMPLEXED WITH ENDOGENOUS PEPTIDE"
+1BX2,C,sep,DR,14,ENPVVHFFKNIVTP,VHFFKNIVT,4,4,False,1998-10-21,2.6,False,X-ray,"CRYSTAL STRUCTURE OF HLA-DR2 (DRA*0101,DRB1*1501) COMPLEXED WITH A PEPTIDE FROM HUMAN MYELIN BASIC PROTEIN"
+1BX2,F,sep,DR,14,NPVVHFFKNIVTPR,VHFFKNIVT,3,3,False,1998-10-21,2.6,False,X-ray,"CRYSTAL STRUCTURE OF HLA-DR2 (DRA*0101,DRB1*1501) COMPLEXED WITH A PEPTIDE FROM HUMAN MYELIN BASIC PROTEIN"
+1D9K,E,sep,H2-IA,16,GNSHRGAIEWEGIESG,HRGAIEWEG,3,3,False,1999-12-15,3.2,True,X-ray,CRYSTAL STRUCTURE OF COMPLEX BETWEEN D10 TCR AND PMHC I-AK/CA
+1DLH,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,1994-06-22,2.8,False,X-ray,CRYSTAL STRUCTURE OF THE HUMAN CLASS II MHC PROTEIN HLA-DR1 COMPLEXED WITH AN INFLUENZA VIRUS PEPTIDE
+1ES0,B,fused,H2-IA,14,YEIAPVFVLLEYVT,IAPVFVLLE,2,2,False,2000-06-28,2.6,False,X-ray,CRYSTAL STRUCTURE OF THE MURINE CLASS II ALLELE I-A(G7) COMPLEXED WITH THE GLUTAMIC ACID DECARBOXYLASE (GAD65) PEPTIDE 207-220
+1F3J,C,sep,H2-IA,14,AMKRHGLDNYRGYS,RHGLDNYRG,3,3,False,2000-09-20,3.1,False,X-ray,HISTOCOMPATIBILITY ANTIGEN I-AG7
+1FNE,B,fused,H2-IE,19,KKVITAFNDGLKGGGGSLV,ITAFNDGLK,3,3,False,2001-03-07,1.9,False,X-ray,HISTOCOMPATIBILITY ANTIGEN
+1FNG,B,fused,H2-IE,19,KKVITAFNEGLKGGGGSLV,ITAFNEGLK,3,3,False,2001-03-07,1.9,False,X-ray,HISTOCOMPATIBILITY ANTIGEN
+1FV1,C,sep,DR,20,NPVVHFFKNIVTPRTPPPSQ,FKNIVTPRT,6,6,False,2000-09-27,1.9,False,X-ray,STRUCTURAL BASIS FOR THE BINDING OF AN IMMUNODOMINANT PEPTIDE FROM MYELIN BASIC PROTEIN IN DIFFERENT REGISTERS BY TWO HLA-DR2 ALLELES
+1FV1,F,sep,DR,18,PVVHFFKNIVTPRTPPPS,FKNIVTPRT,5,5,False,2000-09-27,1.9,False,X-ray,STRUCTURAL BASIS FOR THE BINDING OF AN IMMUNODOMINANT PEPTIDE FROM MYELIN BASIC PROTEIN IN DIFFERENT REGISTERS BY TWO HLA-DR2 ALLELES
+1FYT,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2000-11-08,2.6,True,X-ray,"CRYSTAL STRUCTURE OF A COMPLEX OF A HUMAN ALPHA/BETA-T CELL RECEPTOR, INFLUENZA HA ANTIGEN PEPTIDE, AND MHC CLASS II MOLECULE, HLA-DR1"
+1H15,C,sep,DR,14,GGVYHFVKKHVHES,YHFVKKHVH,3,3,False,2002-10-03,3.1,False,X-ray,X-ray crystal structure of HLA-DRA1*0101/DRB5*0101 complexed with a peptide from Epstein Barr Virus DNA polymerase
+1HQR,C,sep,DR,10,VHFFKNIVTP,,3,,False,2001-01-03,3.2,False,X-ray,"CRYSTAL STRUCTURE OF A SUPERANTIGEN BOUND TO THE HIGH-AFFINITY, ZINC-DEPENDENT SITE ON MHC CLASS II"
+1HXY,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2001-06-27,2.6,False,X-ray,CRYSTAL STRUCTURE OF STAPHYLOCOCCAL ENTEROTOXIN H IN COMPLEX WITH HUMAN MHC CLASS II
+1I3R,B,fused,H2-IE,20,GKKVITAFNEGLKGGGGSLV,ITAFNEGLK,4,4,False,2001-06-20,2.4,False,X-ray,CRYSTAL STRUCTURE OF A MUTANT IEK CLASS II MHC MOLECULE
+1IAK,C,sep,H2-IA,13,STDYGILQINSRW,DYGILQINS,2,2,False,1998-04-15,1.9,False,X-ray,HISTOCOMPATIBILITY ANTIGEN I-AK
+1IAO,B,fused,H2-IA,14,RGISQAVHAAHAEI,SQAVHAAHA,3,3,False,1998-11-04,2.6,False,X-ray,CLASS II MHC I-AD IN COMPLEX WITH OVALBUMIN PEPTIDE 323-339
+1IEA,B,fused,H2-IE,20,GKKVITAFNEGLKGGGGSLV,ITAFNEGLK,4,4,False,1997-06-05,2.3,False,X-ray,HISTOCOMPATIBILITY ANTIGEN
+1IEB,B,fused,H2-IE,15,RDRMVNHFIAEFKRK,VNHFIAEFK,4,4,False,1997-06-05,2.7,False,X-ray,HISTOCOMPATIBILITY ANTIGEN
+1J8H,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2002-03-13,2.4,True,X-ray,"Crystal Structure of a Complex of a Human alpha/beta-T cell Receptor, Influenza HA Antigen Peptide, and MHC Class II Molecule, HLA-DR4"
+1JK8,C,sep,DQ,14,LVEALYLVCGERGG,EALYLVCGE,2,2,False,2001-08-22,2.4,False,X-ray,Crystal structure of a human insulin peptide-HLA-DQ8 complex
+1JL4,C,sep,H2-IA,16,GNSHRGAIEWEGIESG,HRGAIEWEG,3,3,False,2001-09-19,4.3,True,X-ray,CRYSTAL STRUCTURE OF THE HUMAN CD4 N-TERMINAL TWO DOMAIN FRAGMENT COMPLEXED TO A CLASS II MHC MOLECULE
+1JWM,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2003-07-08,2.7,False,X-ray,Crystal Structure of the Complex of the MHC Class II Molecule HLA-DR1(HA peptide 306-318) with the Superantigen SEC3
+1JWS,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2003-07-08,2.6,False,X-ray,Crystal Structure of the Complex of the MHC Class II Molecule HLA-DR1 (HA peptide 306-318) with the Superantigen SEC3 Variant 3B1
+1JWU,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2003-07-08,2.3,False,X-ray,Crystal Structure of the Complex of the MHC Class II Molecule HLA-DR1 (HA peptide 306-318) with the superantigen SEC3 Variant 3B2
+1K2D,C,sep,H2-IA,12,SRGGASQYRPSQ,GGASQYRPS,2,2,False,2003-03-04,2.2,False,X-ray,Crystal structure of the autoimmune MHC class II I-Au complexed with myelin basic protein 1-11 at 2.2A
+1KG0,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2002-03-27,2.65,False,X-ray,Structure of the Epstein-Barr Virus gp42 Protein Bound to the MHC class II Receptor HLA-DR1
+1KLG,C,sep,DR,15,GELIGILNAAKVPAD,IGILNAAKV,3,3,False,2002-08-02,2.4,False,X-ray,"Crystal structure of HLA-DR1/TPI(23-37, Thr28-->Ile mutant) complexed with staphylococcal enterotoxin C3 variant 3B2 (SEC3-3B2)"
+1KLU,C,sep,DR,15,GELIGTLNAAKVPAD,IGTLNAAKV,3,3,False,2002-08-02,1.93,False,X-ray,Crystal structure of HLA-DR1/TPI(23-37) complexed with staphylococcal enterotoxin C3 variant 3B2 (SEC3-3B2)
+1KT2,B,fused,H2-IE,12,ADLIAYLKQATK,IAYLKQATK,3,3,False,2002-05-01,2.8,False,X-ray,CRYSTAL STRUCTURE OF CLASS II MHC MOLECULE IEK BOUND TO MOTH CYTOCHROME C PEPTIDE
+1KTD,B,fused,H2-IE,21,AADLIAYLKQASAKGGGGSLV,IAYLKQASA,4,4,False,2002-05-01,2.4,False,X-ray,CRYSTAL STRUCTURE OF CLASS II MHC MOLECULE IEK BOUND TO PIGEON CYTOCHROME C PEPTIDE
+1LNU,B,fused,H2-IA,13,FEAQKAKANKAVD,AQKAKANKA,2,2,False,2002-08-14,2.5,False,X-ray,CRYSTAL STRUCTURE OF CLASS II MHC MOLECULE IAb BOUND TO EALPHA3K PEPTIDE
+1LO5,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2002-12-18,3.2,False,X-ray,Crystal structure of the D227A variant of Staphylococcal enterotoxin A in complex with human MHC class II
+1MUJ,C,sep,H2-IA,15,PVSKMRMATPLLMQA,MRMATPLLM,4,4,False,2003-02-18,2.15,False,X-ray,Crystal structure of murine class II MHC I-Ab in complex with a human CLIP peptide
+1PYW,C,sep,DR,9,FVKQNAXAL,FVKQNAXAL,0,0,False,2003-12-09,2.1,False,X-ray,"Human class II MHC protein HLA-DR1 bound to a designed peptide related to influenza virus hemagglutinin, FVKQNA(MAA)AL, in complex with staphylococcal enterotoxin C3 variant 3B2 (SEC3-3B2)"
+1R5I,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2004-03-16,2.6,False,X-ray,Crystal structure of the MAM-MHC complex
+1R5V,B,sep,H2-IE,13,ADLIAYPKAATKF,IAYPKAATK,3,3,False,2004-02-03,2.5,False,X-ray,Evidence that structural rearrangements and/or flexibility during TCR binding can contribute to T-cell activation
+1R5W,E,sep,H2-IE,13,ADLIAYFKAATKF,IAYFKAATK,3,3,False,2004-03-02,2.9,False,X-ray,Evidence that structural rearrangements and/or flexibility during TCR binding can contribute to T-cell activation
+1S9V,C,sep,DQ,11,LQPFPQPELPY,PFPQPELPY,2,2,False,2004-03-02,2.22,False,X-ray,Crystal structure of HLA-DQ2 complexed with deamidated gliadin peptide
+1SEB,C,sep,DR,13,XXXXXXXXXXXXX,XXXXXXXXX,2,2,False,1996-06-20,2.7,False,X-ray,COMPLEX OF THE HUMAN MHC CLASS II GLYCOPROTEIN HLA-DR1 AND THE BACTERIAL SUPERANTIGEN SEB
+1SJE,C,sep,DR,15,PEVIPMFSALSEGAT,VIPMFSALS,2,2,False,2004-08-17,2.45,False,X-ray,HLA-DR1 complexed with a 16 residue HIV capsid peptide bound in a hairpin conformation
+1SJH,C,sep,DR,13,PEVIPMFSALSEG,VIPMFSALS,2,2,False,2004-08-17,2.25,False,X-ray,HLA-DR1 complexed with a 13 residue HIV capsid peptide
+1T5W,C,sep,DR,13,AAYSDQATPLLLS,YSDQATPLL,2,2,False,2004-08-17,2.4,False,X-ray,HLA-DR1 in complex with a synthetic peptide (AAYSDQATPLLLSPR)
+1T5X,C,sep,DR,13,AAYSDQATPLLLS,YSDQATPLL,2,2,False,2004-08-17,2.5,False,X-ray,HLA-DR1 in complex with a synthetic peptide (AAYSDQATPLLLSPR) and the superantigen SEC3-3B2
+1U3H,E,sep,H2-IA,12,SRGGASQYRPSQ,GGASQYRPS,2,2,False,2005-05-17,2.42,True,X-ray,Crystal structure of mouse TCR 172.10 complexed with MHC class II I-Au molecule at 2.4 A
+1UVQ,C,sep,DQ,20,MNLPSTKVSWAAVGGGGSLV,LPSTKVSWA,2,2,False,2004-02-05,1.8,False,X-ray,Crystal structure of HLA-DQ0602 in complex with a hypocretin peptide
+1YMM,C,sep,DR,14,ENPVVHFFKNIVTP,VHFFKNIVT,4,4,False,2005-05-03,3.5,True,X-ray,TCR/HLA-DR2b/MBP-peptide complex
+1ZGL,C,sep,DR,14,VHFFKNIVTPRTPG,FKNIVTPRT,3,3,False,2005-10-18,2.8,True,X-ray,Crystal structure of 3A6 TCR bound to MBP/HLA-DR2a
+1ZGL,H,sep,DR,15,VHFFKNIVTPRTPGG,FKNIVTPRT,3,3,False,2005-10-18,2.8,True,X-ray,Crystal structure of 3A6 TCR bound to MBP/HLA-DR2a
+1ZGL,M,sep,DR,13,HFFKNIVTPRTPG,FKNIVTPRT,2,2,False,2005-10-18,2.8,True,X-ray,Crystal structure of 3A6 TCR bound to MBP/HLA-DR2a
+27EB,C,sep,DQ,12,APQPEQPFPWQC,PQPEQPFPW,1,1,False,2026-08-26,3.25,True,X-ray,TCR-HLA-DQ2.5-glia-w2 complex
+28ZB,B,fused,DR,12,IKVRVDMVRHRI,VRVDMVRHR,2,2,False,2026-07-08,2.426,False,X-ray,Crystal Structure of HLA class II major histocompatibility complex bound to HCMV-IE1 peptide
+2FSE,E,sep,DR,14,AGFKGEQGPKGEPG,FKGEQGPKG,2,2,False,2006-09-19,3.1,False,X-ray,"Crystallographic structure of a rheumatoid arthritis MHC susceptibility allele, HLA-DR1 (DRB1*0101), complexed with the immunodominant determinant of human type II collagen"
+2G9H,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2006-07-11,2.0,True,X-ray,Crystal Structure of Staphylococcal Enterotoxin I (SEI) in Complex with a Human MHC class II Molecule
+2IAD,B,fused,H2-IA,14,GHATQGVTAASSHE,TQGVTAASS,3,3,False,1998-11-18,2.4,False,X-ray,CLASS II MHC I-AD IN COMPLEX WITH AN INFLUENZA HEMAGGLUTININ PEPTIDE 126-138
+2IAM,C,sep,DR,15,GELIGILNAAKVPAD,IGILNAAKV,3,3,False,2007-04-03,2.8,True,X-ray,"Structural basis for recognition of mutant self by a tumor-specific, MHC class II-restricted TCR"
+2IAN,C,sep,DR,15,GELIGTLNAAKVPAD,IGTLNAAKV,3,3,False,2007-04-03,2.8,True,X-ray,"Structural basis for recognition of mutant self by a tumor-specific, MHC class II-restricted TCR"
+2ICW,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2007-03-20,2.41,True,X-ray,"Crystal structure of a complete ternary complex between TCR, superantigen, and peptide-MHC class II molecule"
+2IPK,C,sep,DR,13,PKXVKQNTLKLAT,XVKQNTLKL,2,2,False,2007-03-13,2.3,False,X-ray,"Crystal Structure of the MHC Class II Molecule HLA-DR1 in Complex with the Fluorogenic Peptide, AcPKXVKQNTLKLAT (X=3-[5-(dimethylamino)-1,3-dioxo-1,3-dihydro-2H-isoindol-2-yl]-L-alanine) and the Superantigen, SEC3 Variant 3B2"
+2NNA,C,sep,DQ,13,SGEGSFQPSQENP,EGSFQPSQE,2,2,False,2007-09-04,2.1,False,X-ray,Structure of the MHC class II molecule HLA-DQ8 bound with a deamidated gluten peptide
+2OJE,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2007-01-23,3.0,False,X-ray,Mycoplasma arthritidis-derived mitogen complexed with class II MHC molecule HLA-DR1/HA complex in the presence of EDTA
+2P24,B,fused,H2-IA,14,RGYGGRASDYKSAH,GRASDYKSA,4,4,False,2008-01-15,2.15,False,X-ray,I-Au/MBP125-135
+2PXY,E,sep,H2-IA,11,RGGASQYRPSQ,GGASQYRPS,1,1,False,2007-10-09,2.23,True,X-ray,Crystal structures of immune receptor complexes
+2Q6W,C,sep,DR,11,AWRSDEALPLG,WRSDEALPL,1,1,False,2007-07-24,2.25,False,X-ray,"The structure of HLA-DRA, DRB3*0101 (DR52a) with bound platelet integrin peptide associated with fetal and neonatal alloimmune thrombocytopenia"
+2Q6W,F,sep,DR,12,AWRSDEALPLGS,WRSDEALPL,1,1,False,2007-07-24,2.25,False,X-ray,"The structure of HLA-DRA, DRB3*0101 (DR52a) with bound platelet integrin peptide associated with fetal and neonatal alloimmune thrombocytopenia"
+2SEB,D,sep,DR,12,AYMRADAAAGGA,MRADAAAGG,2,2,False,1998-01-28,2.5,False,X-ray,X-RAY CRYSTAL STRUCTURE OF HLA-DR4 COMPLEXED WITH A PEPTIDE FROM HUMAN COLLAGEN II
+2XN9,F,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2010-11-24,2.3,True,X-ray,"Crystal structure of the ternary complex between human T cell receptor, staphylococcal enterotoxin H and human major histocompatibility complex class II"
+2Z31,E,sep,H2-IA,11,RGGASQYRPSQ,GGASQYRPS,1,1,False,2007-10-09,2.7,True,X-ray,Crystal structure of immune receptor complex
+31VO,A,fused,DR,13,AEFRHDSGYEVHH,FRHDSGYEV,2,2,False,2026-09-16,2.0,False,X-ray,Crystal structure of amyloid beta 1-15 fragment bound to HLA-DR1
+3C5J,C,sep,DR,13,QVIILNHPGQISA,IILNHPGQI,2,2,False,2008-08-05,1.8,False,X-ray,Crystal structure of HLA DR52c
+3C5Z,D,fused,H2-IA,13,FEAQKAKANKAVD,AQKAKANKA,2,2,False,2008-04-29,2.55,True,X-ray,Crystal structure of mouse MHC class II I-Ab/3K peptide complexed with mouse TCR B3K506
+3C60,D,fused,H2-IA,13,FEAQKAKANKAVD,AQKAKANKA,2,2,False,2008-04-29,3.05,True,X-ray,Crystal structure of mouse MHC class II I-Ab/3K peptide complexed with mouse TCR YAe62
+3C6L,D,fused,H2-IA,12,FEAQKAKANKAV,AQKAKANKA,2,2,False,2008-04-29,3.4,True,X-ray,Crystal structure of mouse MHC class II I-Ab/3K peptide complexed with mouse TCR 2W20
+3CUP,B,fused,H2-IA,10,KKMREIIGWP,,2,,False,2009-04-21,3.09,False,X-ray,Crystal structure of the MHC class II molecule I-Ag7 in complex with the peptide GAD221-235
+3L6F,C,sep,DR,15,APPAYEKLXAEQSPP,YEKLXAEQS,4,4,False,2010-05-12,2.1,False,X-ray,Structure of MHC class II molecule HLA-DR1 complexed with phosphopeptide MART-1
+3LQZ,B,fused,DP,12,RKFHYLPFLPST,FHYLPFLPS,2,2,False,2010-04-14,3.25,False,X-ray,Crystal Structure of HLA-DP2
+3MBE,C,sep,H2-IA,17,GAMKRHGLDNYRGYSLG,RHGLDNYRG,4,4,False,2010-05-12,2.886,True,X-ray,TCR 21.30 in complex with MHC class II I-Ag7HEL(11-27)
+3O6F,B,fused,DR,12,FSWGAEGQRPGF,WGAEGQRPG,2,2,False,2011-03-02,2.8,True,X-ray,Crystal structure of a human autoimmune TCR MS2-3C8 bound to MHC class II self-ligand MBP/HLA-DR4
+3PDO,C,sep,DR,17,PVSKMRMATPLLMQALP,MRMATPLLM,4,4,False,2010-12-08,1.95,False,X-ray,Crystal Structure of HLA-DR1 with CLIP102-120
+3PGC,C,sep,DR,15,KMRMATPLLMQALPM,MRMATPLLM,9,1,True,2010-12-08,2.66,False,X-ray,"Crystal Structure of HLA-DR1 with CLIP106-120, flipped peptide orientation"
+3PGD,C,sep,DR,15,KMRMATPLLMQALPM,MRMATPLLM,1,1,False,2010-12-08,2.72,False,X-ray,"Crystal Structure of HLA-DR1 with CLIP106-120, canonical peptide orientation"
+3QIB,E,sep,H2-IE,13,ADLIAYLKQATKG,IAYLKQATK,3,3,False,2011-04-27,2.7,True,X-ray,Crystal structure of the 2B4 TCR in complex with MCC/I-Ek
+3QIU,E,sep,H2-IE,13,ADLIAYLKQATKG,IAYLKQATK,3,3,False,2011-04-27,2.7,True,X-ray,Crystal structure of the 226 TCR in complex with MCC/I-Ek
+3QIW,E,sep,H2-IE,13,ADLIAYLEQATKG,IAYLEQATK,3,3,False,2011-04-27,3.3,True,X-ray,Crystal structure of the 226 TCR in complex with MCC-p5E/I-Ek
+3QXA,E,sep,DR,14,VSKMRMATPLLMQA,MRMATPLLM,3,3,False,2011-11-16,2.712,False,X-ray,HLA-DR1 bound with CLIP peptide
+3QXA,F,sep,DR,12,SKMRMATPLLMQ,MRMATPLLM,2,2,False,2011-11-16,2.712,False,X-ray,HLA-DR1 bound with CLIP peptide
+3QXD,E,sep,DR,14,PVSKMRMATPLLMQ,MRMATPLLM,4,4,False,2011-11-16,2.302,False,X-ray,F54C HLA-DR1 bound with CLIP peptide
+3RDT,B,fused,H2-IA,13,FEAQKAKANKAVD,AQKAKANKA,2,2,False,2011-12-07,2.7,True,X-ray,Crystal Structure of 809.B5 TCR complexed with MHC Class II I-Ab/3k peptide
+3S4S,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2011-09-21,2.4,True,X-ray,Crystal structure of CD4 mutant bound to HLA-DR1
+3S5L,E,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2011-09-21,2.1,True,X-ray,Crystal structure of CD4 mutant bound to HLA-DR1
+3T0E,B,fused,DR,12,FSWGAEGQRPGF,WGAEGQRPG,2,2,False,2012-03-07,4.0,True,X-ray,"Crystal structure of a complete ternary complex of T cell receptor, peptide-MHC and CD4"
+3WEX,B,fused,DP,9,KVTVAFNQF,KVTVAFNQF,0,0,False,2014-07-23,2.4,False,X-ray,Crystal structure of HLA-DP5 in complex with Cry j 1-derived peptide (residues 214-222)
+4AEN,C,sep,DR,15,KMRMATPLLMQALPM,MRMATPLLM,9,1,True,2012-08-01,2.2,False,X-ray,HLA-DR1 with covalently linked CLIP106-120 in reversed orientation
+4AH2,B,fused,DR,14,MKMRMATPLLMQAL,MRMATPLLM,2,2,False,2012-08-01,2.36,False,X-ray,HLA-DR1 with covalently linked CLIP106-120 in canonical orientation
+4C56,F,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2014-07-23,2.9,True,X-ray,"X-ray structure of the complex between staphylococcal enterotoxin B, T cell receptor and major histocompatibility complex class II"
+4D8P,B,fused,DQ,13,PQPEQPEQPFPQP,EQPEQPFPQ,3,3,False,2012-03-14,3.05,False,X-ray,Structural and functional studies of the trans-encoded HLA-DQ2.3 (DQA1*03:01/DQB1*02:01) molecule
+4E41,C,sep,DR,15,GELIGILNAAKVPAD,IGILNAAKV,3,3,False,2012-08-29,2.6,True,X-ray,"Structural basis for the recognition of mutant self by a tumor-specific, MHC class II-restricted T cell receptor G4"
+4GBX,E,sep,DR,10,GKQNCLKLAT,GKQNCLKLA,0,0,False,2013-01-16,3.0,False,X-ray,Crystal structure of an immune complex at pH 6.5
+4GG6,I,sep,DQ,13,SGEGSFQPSQENP,EGSFQPSQE,2,2,False,2012-10-24,3.2,True,X-ray,Protein complex
+4H1L,C,sep,DR,13,QHIRCNIPKRISA,IRCNIPKRI,2,2,False,2012-11-14,3.3,True,X-ray,TCR interaction with peptide mimics of nickel offers structural insights in nickel contact allergy
+4H25,C,sep,DR,22,QHIRCNIPKRIGPSKVATLVPR,IRCNIPKRI,2,2,False,2013-10-16,2.2,False,X-ray,TCR interaction with peptide mimics of nickel offers structure insights to nickel contact allergy
+4H26,C,sep,DR,11,QWIRVNIPKRI,IRVNIPKRI,2,2,False,2013-10-16,2.5,False,X-ray,TCR interaction with peptide mimics of nickel offers structure insight to nickel contact allergy
+4I5B,C,sep,DR,12,VVKQNCLKLATK,VVKQNCLKL,0,0,False,2013-12-04,2.12,False,X-ray,Structure of human MHC class II protein HLA-DR1 carrying an influenza hemagglutinin peptide partially filling the binding groove
+4I5B,F,sep,DR,11,VVKQNCLKLAT,VVKQNCLKL,0,0,False,2013-12-04,2.12,False,X-ray,Structure of human MHC class II protein HLA-DR1 carrying an influenza hemagglutinin peptide partially filling the binding groove
+4IS6,C,sep,DR,13,RQLYPEWTEAQRL,LYPEWTEAQ,2,2,False,2013-10-23,2.5,False,X-ray,Crystal structure of HLA-DR4 bound to GP100 peptide
+4MCY,C,sep,DR,13,SAVRLXSSVPGVR,VRLXSSVPG,2,2,False,2013-11-27,2.3,False,X-ray,Immune Receptor
+4MCZ,C,sep,DR,13,GVYATXSSAVRLR,YATXSSAVR,2,2,False,2013-12-04,2.41,False,X-ray,Immune Receptor
+4MD0,C,sep,DR,13,GVYATXSSAVXLX,YATXSSAVX,2,2,False,2013-12-04,2.194,False,X-ray,Immune Receptor
+4MD4,C,sep,DR,13,ATEYXVXVNSAYQ,YXVXVNSAY,3,3,False,2013-12-04,1.95,False,X-ray,Immune Receptor
+4MD5,C,sep,DR,13,SAVRLXSSVPGVR,VRLXSSVPG,2,2,False,2013-12-04,1.65,False,X-ray,Immune Receptor
+4MDI,C,sep,DR,13,SAVRLXSSVPGVR,VRLXSSVPG,2,2,False,2013-12-04,2.0,False,X-ray,Immune Receptor
+4MDJ,C,sep,DR,13,SAVRLRSSVPGVR,VRLRSSVPG,2,2,False,2013-12-04,1.7,False,X-ray,Immune Receptor
+4OV5,M,sep,DR,14,GSDARFLRGYHLYA,ARFLRGYHL,3,3,False,2014-07-16,2.199,False,X-ray,Structure of HLA-DR1 with a bound peptide with non-optimal alanine in the P1 pocket
+4OV5,O,sep,DR,11,SDARFLRGYHL,ARFLRGYHL,2,2,False,2014-07-16,2.199,False,X-ray,Structure of HLA-DR1 with a bound peptide with non-optimal alanine in the P1 pocket
+4OZF,E,sep,DQ,13,APQPELPYPQPGS,PQPELPYPQ,1,1,False,2014-04-16,2.7,True,X-ray,JR5.1 protein complex
+4OZG,I,sep,DQ,13,APQPELPYPQPGS,PQPELPYPQ,1,1,False,2014-04-16,3.0,True,X-ray,D2 protein complex
+4OZG,J,sep,DQ,12,APQPELPYPQPG,PQPELPYPQ,1,1,False,2014-04-16,3.0,True,X-ray,D2 protein complex
+4OZH,I,sep,DQ,12,APQPELPYPQPG,PQPELPYPQ,1,1,False,2014-04-16,2.8,True,X-ray,S16 protein complex
+4OZH,J,sep,DQ,13,APQPELPYPQPGS,PQPELPYPQ,1,1,False,2014-04-16,2.8,True,X-ray,S16 protein complex
+4OZI,I,sep,DQ,11,QPFPQPELPYP,PFPQPELPY,1,1,False,2014-04-16,3.2,True,X-ray,S2 protein complex
+4P23,D,fused,H2-IA,13,FEAQKAKANKAVD,AQKAKANKA,2,2,False,2014-05-28,2.25,True,X-ray,J809.B5 TCR bound to IAb/3K
+4P2O,E,sep,H2-IE,20,PADPLAFFSSAIKGGGGSLV,LAFFSSAIK,4,4,False,2014-05-21,2.603,True,X-ray,Crystal structure of the 2B4 TCR in complex with 2A/I-Ek
+4P2Q,C,sep,H2-IE,14,ADGLAYFRSSFKGG,LAYFRSSFK,3,3,False,2014-05-21,3.3,True,X-ray,Crystal structure of the 5cc7 TCR in complex with 5c2/I-Ek
+4P2Q,M,sep,H2-IE,13,ADGLAYFRSSFKG,LAYFRSSFK,3,3,False,2014-05-21,3.3,True,X-ray,Crystal structure of the 5cc7 TCR in complex with 5c2/I-Ek
+4P2R,C,sep,H2-IE,13,ANGVAFFLTPFKA,VAFFLTPFK,3,3,False,2014-05-21,3.295,True,X-ray,Crystal structure of the 5cc7 TCR in complex with 5c1/I-Ek
+4P46,B,fused,H2-IA,13,FEAQKAKANKAVD,AQKAKANKA,2,2,False,2014-05-28,2.851,True,X-ray,J809.B5 Y31A TCR bound to IAb3K
+4P4K,B,fused,DP,11,QAFWIDLFETI,FWIDLFETI,2,2,False,2014-07-16,2.8,True,X-ray,Structural Basis of Chronic Beryllium Disease: Bridging the Gap Between allergic hypersensitivity and auto immunity
+4P4R,B,fused,DP,11,QAFWIDLFETI,FWIDLFETI,2,2,False,2014-07-16,3.0,False,X-ray,Structural Basis of Chronic Beryllium Disease: Bridging the Gap Between Allergic Hypersensitivity and Autoimmunity
+4P57,B,fused,DP,11,QAFWIDLFETI,FWIDLFETI,2,2,False,2014-07-16,2.6,False,X-ray,MHC TCR peptide complex
+4P5K,B,fused,DP,12,NKFDTQLFHTIT,FDTQLFHTI,2,2,False,2015-01-21,2.59,False,X-ray,Structural Basis of Chronic Beryllium Disease: Bridging the Gap Between Allergy and Autoimmunity
+4P5M,B,fused,DP,12,QAYDGKDYIALK,YDGKDYIAL,2,2,False,2014-08-27,1.7,False,X-ray,Structural Basis of Chronic Beryllium Disease: Bridging the Gap Between Allergic Hypersensitivity and Autoimmunity
+4P5T,D,fused,H2-IA,13,FEAQKAKANKAVD,AQKAKANKA,2,2,False,2014-05-28,3.263,True,X-ray,14.C6 TCR complexed with MHC class II I-Ab/3K peptide
+4X5W,C,sep,DR,15,VSKWRMATPLLMQAL,WRMATPLLM,3,3,False,2016-03-09,1.34,False,X-ray,HLA-DR1 with CLIP102-120(M107W)
+4X5X,B,fused,DR,16,MKWRMATPLLMQALPM,WRMATPLLM,2,2,False,2016-03-09,3.199,False,X-ray,HLA-DR1 mutant bN82A with covalently linked CLIP106-120(M107W)
+4Y19,C,sep,DR,13,QPLALEGSLQKRG,LALEGSLQK,2,2,False,2015-09-23,2.5,False,X-ray,immune complex
+4Y1A,C,sep,DR,14,LQPLALEGSLQKRG,LALEGSLQK,3,3,False,2015-09-23,4.0,False,X-ray,immune complex
+4Z7U,I,sep,DQ,15,PSGEGSFQPSQENPQ,EGSFQPSQE,3,3,False,2015-06-03,2.7,True,X-ray,S13 complex
+4Z7U,J,sep,DQ,16,APSGEGSFQPSQENPQ,EGSFQPSQE,4,4,False,2015-06-03,2.7,True,X-ray,S13 complex
+4Z7V,I,sep,DQ,13,SGEGSFQPSQENP,EGSFQPSQE,2,2,False,2015-06-03,2.65,True,X-ray,L3-12 complex
+4Z7W,I,sep,DQ,15,PSGEGSFQPSQENPQ,EGSFQPSQE,3,3,False,2015-06-03,2.89,True,X-ray,T316 complex
+5DMK,B,fused,H2-IA,12,SRLGLWSRMDQL,RLGLWSRMD,1,1,False,2015-10-28,2.45,False,X-ray,Crystal Structure of IAg7 in complex with RLGL-WE14
+5JLZ,E,sep,DR,14,SKGLFXAAVPSGAS,FXAAVPSGA,4,4,False,2016-12-07,1.99,False,X-ray,Crystal structure of HLA-DRB1*04:01 in complex with modified alpha-enolase peptide 26-40 with citrulline at the position 32
+5KS9,I,sep,DQ,16,APSGEGSFQPSQENPQ,EGSFQPSQE,4,4,False,2016-09-21,2.55,True,X-ray,Bel502-DQ8-glia-alpha1 complex
+5KSA,E,sep,DQ,11,QPQQSFPEQEA,PQQSFPEQE,1,1,False,2016-09-21,2.0,True,X-ray,Bel602-DQ8.5-glia-gamma1 complex
+5KSB,I,sep,DQ,11,GPQQSFPEQEA,PQQSFPEQE,1,1,False,2016-09-21,2.9,True,X-ray,T15-DQ8.5-glia-gamma1 complex
+5KSU,C,sep,DQ,14,PVSKMRMATPLLMQ,MRMATPLLM,4,4,False,2017-04-05,2.73,False,X-ray,Crystal structure of HLA-DQ2.5-CLIP1 at 2.73 resolution
+5KSV,C,sep,DQ,12,MATPLLMQALPM,PLLMQALPM,3,3,False,2017-04-05,2.195,False,X-ray,Crystal structure of HLA-DQ2.5-CLIP2
+5LAX,E,sep,DR,14,SKGLFRAAVPSGAS,FRAAVPSGA,4,4,False,2016-12-07,2.6,False,X-ray,Crystal structure of HLA_DRB1*04:01 in complex with alpha-enolase peptide 26-40
+5NI9,C,sep,DR,14,KRIAKAVNEKSCNC,IAKAVNEKS,2,2,False,2018-06-13,1.33,False,X-ray,Crystal structure of HLA-DRB1*04:01 with the alpha-enolase peptide 326-340
+5NIG,C,sep,DR,15,KXIAKAVNEKSCNCL,IAKAVNEKS,2,2,False,2018-06-13,1.35,False,X-ray,Crystal structure of HLA-DRB1*04:01 with modified alpha-enolase peptide 326-340 (arginine 327 to citrulline)
+5UJT,C,sep,DQ,15,VEELYLVAGEEGCGG,ELYLVAGEE,2,2,False,2017-12-20,1.94,False,X-ray,Crystal structure of human HLA-DQ8 in complex with insulin mimotope binding in register 3
+5UJT,F,sep,DQ,14,VEELYLVAGEEGCG,ELYLVAGEE,2,2,False,2017-12-20,1.94,False,X-ray,Crystal structure of human HLA-DQ8 in complex with insulin mimotope binding in register 3
+5V4M,B,fused,DR,11,GWISLWKGFSF,ISLWKGFSF,2,2,False,2017-05-03,2.1,False,X-ray,Structure of HLA-DR15 with bound alpha3(135-145) peptide
+5V4N,B,fused,DR,10,WISLWKGFSF,WISLWKGFS,0,0,False,2017-05-03,3.405,False,X-ray,Structure of HLA-DR1 with bound alpha3(135-145) peptide
+6ATF,E,sep,DR,13,GVYATRSSAVRLR,YATRSSAVR,2,2,False,2017-09-13,1.9,False,X-ray,HLA-DRB1*1402 in complex with Vimentin59-71
+6ATI,E,sep,DR,13,GVYATXSSAVRLR,YATXSSAVR,2,2,False,2017-09-13,1.98,False,X-ray,HLA-DRB1*1402 in complex with Vimentin-64Cit59-71
+6ATZ,E,sep,DR,12,GGYRAXPAKAAT,YRAXPAKAA,2,2,False,2017-09-20,2.7,False,X-ray,HLA-DRB1*1402 in complex with citrullinated fibrinogen peptide
+6BGA,B,fused,H2-IE,13,ADSLSFFSSSIKR,LSFFSSSIK,3,3,False,2018-07-18,2.307,True,X-ray,2B4 I-Ek TCR-MHC complex with affinity-enhancing Velcro peptide
+6BIJ,C,sep,DR,13,GGYXAXPAKAAAT,YXAXPAKAA,2,2,False,2018-01-17,2.1,False,X-ray,HLA-DRB1 in complex with citrullinated fibrinogen peptide
+6BIL,C,sep,DR,13,GGYRAXPAKAAAT,YRAXPAKAA,2,2,False,2018-01-17,2.4,False,X-ray,HLA-DRB1 in complex with citrullinated fibrinogen peptide
+6BIN,B,sep,DR,13,QYMXADQAAGGLR,MXADQAAGG,2,2,False,2018-01-17,2.50000845062,False,X-ray,HLA-DRB1 in complex with Type II collagen peptide
+6BIR,C,sep,DR,13,SSLNLXETNLDSL,LNLXETNLD,2,2,False,2018-01-17,2.3,False,X-ray,HLA-DRB1 in complex with citrullinated Vimentin peptide
+6BIV,C,sep,DR,13,ETVCPXTTQQSPE,VCPXTTQQS,2,2,False,2018-01-17,2.9,False,X-ray,HLA-DRB1 in complex with citrullinated LL37 peptide
+6BIX,C,sep,DR,13,ETVCPXTTQQSPE,VCPXTTQQS,2,2,False,2018-01-17,2.2,False,X-ray,HLA-DRB1 in complex with citrullinated LL37 peptide
+6BIY,C,sep,DR,13,DIFERIASEASRL,FERIASEAS,2,2,False,2018-01-17,2.05004900063,False,X-ray,HLA-DRB1 in complex with Histone 2B peptide
+6BIZ,C,sep,DR,13,DIFEXIASEASXL,FEXIASEAS,2,2,False,2018-01-17,2.1,False,X-ray,HLA-DRB1 in complex with citrullinated Histone 2B peptide
+6BLQ,B,fused,H2-IA,18,HLVERLYLVCGEEGAGGG,RLYLVCGEE,4,4,False,2017-12-20,1.8,False,X-ray,Crystal Structure of IAg7 in complex with insulin mimotope p8E9E
+6BLR,B,fused,H2-IA,20,LVERLYLVCGEEGAGGGSLV,RLYLVCGEE,3,3,False,2017-12-20,1.96,False,X-ray,Crystal Structure of IAg7 in complex with insulin mimotope p8E9E6SS
+6BLX,B,fused,H2-IA,15,HLVERLYLVCGGEGA,RLYLVCGGE,4,4,False,2017-12-20,2.323,False,X-ray,Crystal structure of IAg7 in complex with insulin mimotope p8G9E
+6CPL,C,sep,DR,16,VDRFYKTLRAEQASQE,YKTLRAEQA,4,4,False,2018-06-06,2.45,False,X-ray,Crystal structure of DR11 presenting the gag293 epitope
+6CPN,C,sep,DR,13,RFYKTLRAEQASQ,YKTLRAEQA,2,2,False,2018-06-06,2.0,False,X-ray,Crystal structure of DR11 presenting the RQ13 peptide
+6CPO,C,sep,DR,13,RFYKTLRAEQASQ,YKTLRAEQA,2,2,False,2018-06-06,2.4,False,X-ray,Crystal structure of DR15 presenting the RQ13 peptide
+6CQJ,C,sep,DR,13,RFYKTLRAEQASQ,YKTLRAEQA,2,2,False,2018-06-06,2.75,False,X-ray,Crystal structure of DR1 presenting the RQ13 peptide
+6CQL,C,sep,DR,13,RFYKTLRAEQASQ,YKTLRAEQA,2,2,False,2018-06-06,2.4,True,X-ray,Crystal structure of F24 TCR -DR11-RQ13 peptide complex
+6CQN,C,sep,DR,13,RFYKTLRAEQASQ,YKTLRAEQA,2,2,False,2018-06-06,2.5,True,X-ray,Crystal structure of F5 TCR -DR11-RQ13 peptide complex
+6CQQ,C,sep,DR,13,RFYKTLRAEQASQ,YKTLRAEQA,2,2,False,2018-06-06,2.8,True,X-ray,Crystal structure of F24 TCR -DR15-RQ13 peptide complex
+6CQR,C,sep,DR,13,RFYKTLRAEQASQ,YKTLRAEQA,2,2,False,2018-06-06,3.04,True,X-ray,Crystal structure of F24 TCR -DR1-RQ13 peptide complex
+6DFS,D,fused,H2-IA,14,LVERLYLVCGEEGA,RLYLVCGEE,3,3,False,2019-04-17,3.1,True,X-ray,mouse TCR I.29 in complex with IAg7-p8E9E6ss
+6DFW,B,fused,H2-IA,13,LVERLYLVCGGEG,RLYLVCGGE,3,3,False,2019-04-17,3.2,False,X-ray,TCR 8F10 in complex with IAg7-p8G9E
+6DFX,B,fused,DQ,19,VEELYLVAGEEGCGGGGSL,ELYLVAGEE,2,2,False,2019-04-17,2.03,False,X-ray,human diabetogenic TCR T1D3 in complex with DQ8-p8E9E peptide
+6DIG,C,sep,DQ,13,AGNHAAGILTLGK,NHAAGILTL,2,2,False,2019-05-08,2.0,False,X-ray,Crystal structure of DQA1*01:02/DQB1*06:02 in complex with a hypocretin peptide
+6HBY,F,sep,DR,19,ARRPPLAELAALNLSGSRL,LAELAALNL,5,5,False,2019-08-14,1.95,False,X-ray,HLA class II peptide flanking residues tune the immunogenicity of a human tumor-derived epitope
+6KVM,C,sep,BL,17,PGDSDIIRSMPEQTSEK,IIRSMPEQT,5,5,False,2019-12-25,1.897,False,X-ray,Crystal structure of Chicken MHC Class II for 1.9 angstrom
+6MFF,B,fused,DQ,11,QPFPQPEQPFP,PFPQPEQPF,1,1,False,2018-11-21,2.6,False,X-ray,HLA-DQ2-glia-omega1
+6MFG,B,fused,DQ,11,QPFPQPELPYP,PFPQPELPY,1,1,False,2018-11-21,2.0,False,X-ray,HLA-DQ2-glia-alpha1
+6MKD,B,fused,H2-IA,13,RVSYYGPKTSPVQ,YYGPKTSPV,3,3,False,2019-07-03,3.2,True,X-ray,4699 TCR bound to I-Ab Padi4
+6MKR,B,fused,H2-IA,13,RVSYYGPKTSPVQ,YYGPKTSPV,3,3,False,2019-07-03,3.355,True,X-ray,5287 TCR bound to IAb Padi4
+6MNG,B,fused,H2-IA,12,VSYYGPKTSPVQ,YYGPKTSPV,2,2,False,2019-07-03,2.662,True,X-ray,4738 TCR bound to IAb Padi4
+6MNM,B,fused,H2-IA,13,RVSYYGPKTSPVQ,YYGPKTSPV,3,3,False,2019-07-03,3.1,True,X-ray,6256 TCR bound to I-Ab Padi4
+6MNN,B,fused,H2-IA,13,RVSYYGPKTSPVQ,YYGPKTSPV,3,3,False,2019-07-03,2.83,True,X-ray,6236 TCR bound to I-Ab Padi4
+6MNO,B,fused,H2-IA,13,RVSYYGPKTSPVQ,YYGPKTSPV,3,3,False,2019-07-03,2.9,True,X-ray,6235 TCR bound to I-Ab Padi4
+6NIX,C,sep,DR,13,AGFKGEQGPKGEP,FKGEQGPKG,2,2,False,2020-01-22,2.1,False,X-ray,Crystal structure of Immune Receptor
+6PX6,C,sep,DQ,12,APFSEQEQPVLG,PFSEQEQPV,1,1,False,2020-01-15,3.00000337881,True,X-ray,HLA-TCR complex
+6PY2,C,sep,DQ,12,APFSEQEQPVLG,PFSEQEQPV,1,1,False,2020-01-15,2.82543430029,True,X-ray,HLA-TCR complex
+6QZA,C,sep,DR,15,MGMFNMLSTVLGVSI,FNMLSTVLG,3,3,False,2020-07-15,3.09,False,X-ray,HLA-DR1 with GMF Influenza PB1 Peptide
+6QZA,F,sep,DR,14,GMFNMLSTVLGVSI,FNMLSTVLG,2,2,False,2020-07-15,3.09,False,X-ray,HLA-DR1 with GMF Influenza PB1 Peptide
+6QZC,C,sep,DR,16,QARQMVQAMRTIGTHP,VQAMRTIGT,5,5,False,2020-07-15,1.64,False,X-ray,HLA-DR1 with the QAR Peptide
+6QZD,C,sep,DR,14,SGPLKAEIAQRLED,LKAEIAQRL,3,3,False,2020-07-15,2.66,False,X-ray,HLA-DR1 with SGP Influenza Matrix Peptide
+6R0E,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2020-07-15,1.91,True,X-ray,Structure of F11TCR in complex with DR1 MHC Class II presenting PKYVKQNTLKLAT
+6T3Y,B,fused,BL,17,IESLSLNGVPNIFLSTK,LSLNGVPNI,3,3,False,2020-11-25,1.7,False,X-ray,Improved High Resolution Structure of MHC Class II complex
+6U3M,E,sep,DQ,11,QPMPMPELPYP,PMPMPELPY,1,1,False,2019-12-18,1.9,False,X-ray,DQ2-P.fluor-alpha1a
+6U3N,E,sep,DQ,11,APMPMPELPYP,PMPMPELPY,1,1,False,2019-12-18,2.8,True,X-ray,LS2.8/3.15 - DQ2-P.fluor-alpha1a complex
+6U3O,I,sep,DQ,13,AVVQSELPYPEGS,VQSELPYPE,2,2,False,2019-12-18,2.743,True,X-ray,JR51 DQ2-p.aeru-alpha2a complex
+6V0Y,C,sep,DR,13,GGYXAXPAKAAAT,YXAXPAKAA,2,2,False,2020-11-25,2.7,True,X-ray,immune receptor complex
+6V13,C,sep,DR,13,GGYRAXPAKAAAT,YRAXPAKAA,2,2,False,2020-11-25,2.75,True,X-ray,immune receptor complex
+6V15,C,sep,DR,13,GGYXAXPAKAAAT,YXAXPAKAA,2,2,False,2020-11-25,2.8,True,X-ray,immune receptor complex
+6V18,C,sep,DR,13,GGYRAXPAKAAAT,YRAXPAKAA,2,2,False,2020-11-25,2.35,True,X-ray,immune receptor complex
+6V19,C,sep,DR,13,GGYXAXPAKAAAT,YXAXPAKAA,2,2,False,2020-11-25,2.6,True,X-ray,immune receptor complex
+6V1A,C,sep,DR,13,GGYRAXPAKAAAT,YRAXPAKAA,2,2,False,2020-11-25,2.29,True,X-ray,immune receptor complex
+6XC9,B,fused,DQ,15,GQVELGGGNAVEVCK,ELGGGNAVE,3,3,False,2021-07-14,2.4,False,X-ray,Immune receptor complex
+6XCO,B,fused,DQ,15,GQVELGGGNAVEVCK,ELGGGNAVE,3,3,False,2021-07-14,2.9,False,X-ray,Immune receptor complex
+6XCP,B,fused,DQ,15,GQVELGGGNAVEVCK,ELGGGNAVE,3,3,False,2021-07-14,3.3,False,X-ray,Immune receptor complex
+6XP6,I,sep,DQ,13,AAPQPELPYPQPG,PQPELPYPQ,2,2,False,2021-07-28,2.4,False,X-ray,3C11-DQ2-glia-a2 complex
+6ZWA,B,fused,BL,14,NKMSMSTMNMPMAM,MSMSTMNMP,2,2,False,2021-08-11,1.68,False,X-ray,CLIP peptide bound to chicken MHC class II molecule (BL-2) from B19 haplotype
+7APZ,B,fused,BL,14,MSMSTMNMPMAMKV,MSTMNMPMA,2,2,False,2021-11-03,1.97,False,X-ray,CLIP peptide bound to chicken MHC class II molecule (BL-2) from B2 haplotype with a decamer mode of binding
+7KEI,C,sep,DQ,20,ERNAGSGIIISDGGGGSLVP,NAGSGIIIS,2,2,False,2021-10-13,1.75,False,X-ray,DQA1*01:02/DQB1*06:02 in complex with a hemagglutinin peptide from the H1N1 pandemic flu virus.
+7N19,C,sep,DR,13,GGIGSDNKVTRRG,IGSDNKVTR,2,2,False,2021-08-18,2.38,False,X-ray,DR3 in complex with Aspergillus nidulans NAD-dependent histone deacetylase hst4 peptide
+7NZE,E,sep,DR,13,AGFKGEQGPKGEP,FKGEQGPKG,2,2,False,2022-06-08,2.05,False,X-ray,Crystal structure of HLA-DR4 in complex with a human collagen type II peptide
+7NZE,F,sep,DR,15,GIAGFKGEQGPKGEP,FKGEQGPKG,4,4,False,2022-06-08,2.05,False,X-ray,Crystal structure of HLA-DR4 in complex with a human collagen type II peptide
+7NZF,C,sep,DR,13,AGFAGEQGPAGEP,FAGEQGPAG,2,2,False,2022-05-11,1.9,False,X-ray,Crystal structure of HLA-DR4 in complex with a mutated human collagen type II peptide
+7NZH,E,sep,DR,14,GKLYGIXDVXSTRD,LYGIXDVXS,2,2,False,2022-05-11,2.831,False,X-ray,Crystal structure of HLA-DR4 in complex with a citrullinated cilp peptide
+7NZH,F,sep,DR,13,GKLYGIXDVXSTR,LYGIXDVXS,2,2,False,2022-05-11,2.831,False,X-ray,Crystal structure of HLA-DR4 in complex with a citrullinated cilp peptide
+7O00,C,sep,DR,14,RKPFQSVIADTGIS,FQSVIADTG,3,3,False,2022-05-11,2.24,False,X-ray,Crystal structure of HLA-DR4 in complex with a HSP70 peptide
+7PDY,B,fused,BL,16,PAVVHSVRALMLAERQ,VHSVRALML,3,3,False,2022-08-24,2.54,False,X-ray,A viral peptide from Marek's disease virus bound to chicken MHC-II molecule
+7PDY,D,fused,BL,15,PAVVHSVRALMLAER,VHSVRALML,3,3,False,2022-08-24,2.54,False,X-ray,A viral peptide from Marek's disease virus bound to chicken MHC-II molecule
+7PDY,F,fused,BL,17,RPAVVHSVRALMLAERQ,VHSVRALML,4,4,False,2022-08-24,2.54,False,X-ray,A viral peptide from Marek's disease virus bound to chicken MHC-II molecule
+7QHP,C,sep,H2-IA,13,LQTLALEVEDDPC,TLALEVEDD,2,2,False,2022-07-20,1.82,False,X-ray,Structure of I-Ag7 with a bound hybrid insulin peptide
+7RDV,E,sep,H2-IA,12,EGRVRVNSAYQS,EGRVRVNSA,0,0,False,2022-07-27,2.90006610312,True,X-ray,TFH TCR bound to MHC Class II IAd presenting aggrecan epitope
+7SG0,C,sep,DQ,11,QPFPQPEQPFP,PFPQPEQPF,1,1,False,2022-02-23,3.0,True,X-ray,W316 TCR in complex with HLA-DQ2-omega1
+7SG1,G,sep,DQ,15,QPFPQPELPYGSGGS,PFPQPELPY,1,1,False,2022-02-23,3.1,True,X-ray,XPA5 TCR in complex with HLA-DQ2-alpha1
+7SG2,G,sep,DQ,13,QPFPQPEQPFPGS,PFPQPEQPF,1,1,False,2022-02-23,3.1,True,X-ray,XPA5 TCR in complex with HLA-DQ2-omega1
+7T2A,C,sep,DP,12,TGLAWEWWRTVY,LAWEWWRTV,2,2,False,2022-12-28,3.04,False,X-ray,Crystal structure of HLA-DP4 in complex with Ply
+7T2B,C,sep,DP,14,ATGLAWEWWRTVYE,LAWEWWRTV,3,3,False,2022-12-28,2.8,True,X-ray,Crystal structure of the 5F TCR in complex with HLA-DP4-Ply
+7T2B,I,sep,DP,13,TGLAWEWWRTVYE,LAWEWWRTV,2,2,False,2022-12-28,2.8,True,X-ray,Crystal structure of the 5F TCR in complex with HLA-DP4-Ply
+7T2C,E,sep,DP,12,TGLAWEWWRTVY,LAWEWWRTV,2,2,False,2022-12-28,3.1,True,X-ray,Crystal structure of the B5 TCR in complex with HLA-DP4-Ply
+7T2D,C,sep,DP,14,ATGLAWEWWRTVYE,LAWEWWRTV,3,3,False,2022-12-28,3.4,True,X-ray,Crystal structure of the B1 TCR in complex with HLA-DP4-Ply
+7T6I,C,sep,DP,16,PVADAVIHASGKQMWQ,DAVIHASGK,11,3,True,2022-12-07,2.3,False,X-ray,Crystal structure of HLA-DP1 in complex with pp65 peptide in reverse orientation
+7YX9,E,sep,DR,15,PVSKMRMATPLLMQA,MRMATPLLM,4,4,False,2023-02-22,1.76,False,X-ray,MHC-II dynamics are maintained in HLA-DR allotypes to ensure catalyzed peptide exchange
+7YXB,E,sep,DR,15,VSKMRMATPLLMQAG,MRMATPLLM,3,3,False,2023-02-22,2.095,False,X-ray,MHC-II dynamics are maintained in HLA-DR allotypes to ensure catalyzed peptide exchange
+7YXB,F,sep,DR,19,AFAPVSKMRMATPLLMQAG,MRMATPLLM,7,7,False,2023-02-22,2.095,False,X-ray,MHC-II dynamics are maintained in HLA-DR allotypes to ensure catalyzed peptide exchange
+7Z0Q,C,sep,DR,14,SKMRMATPLLMQAG,MRMATPLLM,2,2,False,2023-03-08,2.1,False,X-ray,MHC-II dynamics are maintained in HLA-DR allotypes to ensure catalyzed peptide exchange
+7Z50,I,sep,H2-IA,13,LQTLALEVEDDPC,TLALEVEDD,2,2,False,2022-07-20,2.65,True,X-ray,Structure of the highly diabetogenic 4.1-T cell receptor targeting a hybrid insulin peptide bound to I-Ag7.
+7Z50,J,sep,H2-IA,15,LQTLALEVEDDPCGG,TLALEVEDD,2,2,False,2022-07-20,2.65,True,X-ray,Structure of the highly diabetogenic 4.1-T cell receptor targeting a hybrid insulin peptide bound to I-Ag7.
+7ZAK,C,sep,DP,15,KNLEKYKGKFVREID,KYKGKFVRE,4,4,False,2023-03-29,1.62,False,X-ray,Crystal structure of HLA-DP (DPA1*02:01-DPB1*01:01) in complex with a peptide
+7ZFR,C,sep,DP,12,IEFVFKNKAKEL,EFVFKNKAK,9,1,True,2023-04-12,2.9,False,X-ray,Crystal structure of HLA-DP (DPA1*02:01-DPB1*01:01) in complex with a peptide bound in the reverse direction
+8CMB,C,sep,DR,14,FNCYFPLQSYGFQP,YFPLQSYGF,3,3,False,2023-07-26,1.84,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Spike peptide S486-505
+8CMC,C,sep,DR,14,VLSFELLHAPATVC,FELLHAPAT,3,3,False,2023-07-26,1.42,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Spike peptide S511-530
+8CMD,C,sep,DR,15,TQLNRALTGIAVEQD,NRALTGIAV,3,3,False,2023-07-26,2.54,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Spike peptide S761-775
+8CME,C,sep,DR,15,LSYYKLGASQRVAGD,YKLGASQRV,3,3,False,2023-07-26,2.26,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Membrane peptide M176-190
+8CMF,C,sep,DR,15,KSAFYILPSIISNEK,FYILPSIIS,3,3,False,2023-07-26,2.2,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 nsp3 epitope (orf1ab)1350-1364
+8CMG,C,sep,DR,15,LDAYNMMISAGFSLW,YNMMISAGF,3,3,False,2023-07-26,1.64,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 nsp14 peptide (orf1ab)6420-6434
+8CMH,C,sep,DR,14,FNCYFPLRSYSFRP,YFPLRSYSF,3,3,False,2023-07-26,1.64,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Omicron (BA.1) Spike peptide S486-505
+8CMI,C,sep,DR,15,TQLKRALTGIAVEQD,LKRALTGIA,2,2,False,2023-07-26,2.6,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Omicron (BA.1) Spike peptide S761-775
+8EUQ,E,fused,DR,14,APKYVKQNTLKLAT,YVKQNTLKL,3,3,False,2023-04-19,3.09,False,X-ray,Crystal structure of HLA-DRA*01:01/HLA-DRB1*04:01 in complex with c44H10 Fab
+8JR4,C,sep,BAT,13,SFIIRSMPEQTSS,IRSMPEQTS,3,3,False,2024-06-05,2.3,False,X-ray,Molecular structure of bat MHC II at 2.4 A resolution
+8JRJ,C,sep,BAT,12,ASFIIRSMPQET,FIIRSMPQE,2,2,False,2024-06-05,2.5,False,X-ray,Crystal structure of the bat MHC II molecule at 2.8 A resolution
+8JRK,C,sep,BAT,12,NDILSRLDPPEA,ILSRLDPPE,2,2,False,2024-06-05,2.3,False,X-ray,Crystal structure of the bat MHC II molecule at 2.3 A resolution
+8JRK,F,sep,BAT,13,NDILSRLDPPEAS,ILSRLDPPE,2,2,False,2024-06-05,2.3,False,X-ray,Crystal structure of the bat MHC II molecule at 2.3 A resolution
+8PJE,C,sep,DR,13,PKYVKQNTLKLAT,YVKQNTLKL,2,2,False,2024-06-19,1.7,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting influenza A virus haemagglutinin (HA)306-318 PKYVKQNTLKLAT
+8PJF,C,sep,DR,13,PKYVKQNTLKLAR,YVKQNTLKL,2,2,False,2024-06-19,1.48,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting P11T->R modified influenza A virus haemagglutinin (HA)306-318 PKYVKQNTLKLAR
+8PJG,C,sep,DR,13,PKYVKQNTLKLAR,YVKQNTLKL,2,2,False,2024-06-19,1.83,True,X-ray,F11 TCR in complex with Human Leukocyte Antigen class II allotype DR1 presenting P11T->R modified influenza A virus haemagglutinin (HA)306-318 PKYVKQNTLKLAR
+8RAL,C,sep,H2-IA,13,GLYLEAVPLQVGC,YLEAVPLQV,2,2,False,2024-11-06,2.1,False,X-ray,CL3E peptide bound to the I-Ab murine MHC class II receptor
+8TBP,E,sep,DR,14,VLGLVLLRGENLVS,LVLLRGENL,3,3,False,2024-02-21,3.1262111426,False,X-ray,HLA-DRB1*15:01 in complex with smith antigen
+8TRL,C,sep,DR,13,EIFDSXGNPTGEV,FDSXGNPTG,2,2,False,2024-07-31,2.4,True,X-ray,T cell recognition of citrullinated alpha-enolase peptide presented by HLA-DR4
+8TRQ,C,sep,DR,13,GVYATXSSAVRLR,YATXSSAVR,2,2,False,2024-07-31,2.75,True,X-ray,T cell recognition of citrullinated vimentin peptide presented by HLA-DR4
+8TRR,C,sep,DR,12,GVYATXSSAVRL,YATXSSAVR,2,2,False,2024-07-31,2.65,True,X-ray,T cell recognition of citrullinated vimentin peptide presented by HLA-DR4
+8TRR,H,sep,DR,13,GVYATXSSAVRLR,YATXSSAVR,2,2,False,2024-07-31,2.65,True,X-ray,T cell recognition of citrullinated vimentin peptide presented by HLA-DR4
+8VCX,E,sep,DQ,15,GQVELGGGPGAESCQ,ELGGGPGAE,3,3,False,2024-08-07,2.59,True,X-ray,Human TCR A2.13 in complex with DQ8-InsCpep
+8VCY,C,sep,DQ,15,GQVELGGGSSPETCI,ELGGGSSPE,3,3,False,2024-08-07,2.6,True,X-ray,Human TCR A2.13 in complex with DQ8-InsC8-15NPY
+8VD0,B,fused,DQ,15,GQVELGGGNAVEVCK,ELGGGNAVE,3,3,False,2024-08-07,2.4,True,X-ray,Human TCR ET650-4 in complex with DQ8-InsC8-15-IAPP2
+8VD2,C,sep,DQ,14,GQVELGGGTPIESC,ELGGGTPIE,3,3,False,2024-08-07,2.9,True,X-ray,Human TCR ET650-4 in complex with DQ8-InsC8-15-IAPP1
+8VDD,C,sep,DQ,15,GQVELGGGPGAESCQ,ELGGGPGAE,3,3,False,2024-08-07,2.6,False,X-ray,Crystal structure of Proinsulin C-peptide bound to HLA-DQ8
+8VDU,C,sep,DQ,14,QVELGGGNAVEVCK,ELGGGNAVE,2,2,False,2024-08-07,3.5,False,X-ray,Crystal structure of hybrid insulin peptide (InsC8-15-IAPP74-80) bound to HLA-DQ8
+8VDU,I,sep,DQ,15,GQVELGGGNAVEVCK,ELGGGNAVE,3,3,False,2024-08-07,3.5,False,X-ray,Crystal structure of hybrid insulin peptide (InsC8-15-IAPP74-80) bound to HLA-DQ8
+8VDU,L,sep,DQ,13,QVELGGGNAVEVC,ELGGGNAVE,2,2,False,2024-08-07,3.5,False,X-ray,Crystal structure of hybrid insulin peptide (InsC8-15-IAPP74-80) bound to HLA-DQ8
+8VQ8,D,fused,H2-IA,13,QVYSLIRPNENPA,YSLIRPNEN,2,2,False,2025-01-29,2.01,True,X-ray,Immune receptor complex
+8VRW,C,sep,DR,56,LAGQATTAYFLYQQQGRLDKLTVTSQNLQLENLRMKLPKPPKPVSKMRMATPLLMQ,MRMATPLLM,46,46,False,2024-05-08,3.03,False,EM,Cryo-EM structure of human invariant chain in complex with HLA-DR15
+8VSJ,F,sep,DR,12,SKMRMATPLLMQ,MRMATPLLM,2,2,False,2024-10-02,2.28,False,EM,Engineered peptide-specific binder in complex with HLA-DR1/CLIP
+8VSP,C,sep,DQ,70,GALYTGFSILVTLLLAGQATTAYFLYQQQGRLDKLTVTSQNLQLENLRMKLPKPPKPVSKMRMATPLLMQ,MRMATPLLM,60,60,False,2024-05-08,3.12,False,EM,Cryo-EM structure of human invariant chain in complex with HLA-DQ
+8W83,D,fused,DQ,12,LQPFPQPELPYP,PFPQPELPY,2,2,False,2023-11-08,2.818,False,X-ray,HLA-DQ2.5-alpha1 gliadin peptide in complex with DQN0344AE02
+8W83,L,fused,DQ,11,LQPFPQPELPY,PFPQPELPY,2,2,False,2023-11-08,2.818,False,X-ray,HLA-DQ2.5-alpha1 gliadin peptide in complex with DQN0344AE02
+8W84,D,fused,DQ,13,LPYPQPELPYPQP,PQPELPYPQ,3,3,False,2023-11-08,2.105,False,X-ray,HLA-DQ2.5-alpha2 gliadin peptide in complex with DQN0344AE02
+8W85,D,fused,DQ,11,IIQPEQPAQLP,IQPEQPAQL,1,1,False,2023-11-08,2.769,False,X-ray,HLA-DQ2.5-gamma2 gliadin peptide in complex with DQN0385AE01
+8W85,H,fused,DQ,10,IIQPEQPAQL,IQPEQPAQL,1,1,False,2023-11-08,2.769,False,X-ray,HLA-DQ2.5-gamma2 gliadin peptide in complex with DQN0385AE01
+8W86,D,fused,DQ,15,EPEQPIPEQPQPYPQ,PIPEQPQPY,4,4,False,2023-11-08,2.236,False,X-ray,HLA-DQ2.5-B/C hordein peptide in complex with DQN0385AE02
+8W86,H,fused,DQ,14,EPEQPIPEQPQPYP,PIPEQPQPY,4,4,False,2023-11-08,2.236,False,X-ray,HLA-DQ2.5-B/C hordein peptide in complex with DQN0385AE02
+9A0U,C,sep,DR,9,GILGFVFTL,,0,,True,2021-06-04,,False,Integrative,Docking model of HLA class I with HLA class II
+9A0U,G,sep,DR,14,KRIAKAVNEKSCNC,IAKAVNEKS,2,2,False,2021-06-04,,False,Integrative,Docking model of HLA class I with HLA class II
+9AUD,B,fused,H2-IA,13,QVYSLIRPNENPA,YSLIRPNEN,2,2,False,2025-02-05,2.9,True,X-ray,Immune receptor complex
+9B7B,B,fused,DR,14,APKYVKQNTLKLAT,YVKQNTLKL,3,3,False,2024-08-07,3.08,False,X-ray,Crystal structure of humanized 44H10 Fab Version 22 in complex with HLA-DR (HLA-DRA*01:01/HLA-DRB1*04:01)
+9BF9,C,sep,DR,13,SYYKLGASQRVAG,YKLGASQRV,2,2,False,2024-12-25,3.4,False,X-ray,Human LAG-3-HLA-DR1 complex
+9CYL,C,sep,H2-IA,15,PVSKMRMATPLLMQA,MRMATPLLM,4,4,False,2024-08-21,4.66,False,X-ray,Structure of LAG3 loop1 deletion bound to the MHC class II molecule I-A(b)
+9CYM,C,sep,H2-IA,16,GPVSKMRMATPLLMQA,MRMATPLLM,5,5,False,2024-08-21,3.84,False,X-ray,Structure of LAG3 bound to the MHC class II molecule I-A(b)
+9EJG,B,sep,DQ,10,QPFPQPEQPF,PFPQPEQPF,1,1,False,2025-03-26,2.2,True,X-ray,Peptide-independent T cell receptor recognition of HLA-DQ2
+9EJH,C,sep,DQ,12,ATPLLMQALPMG,PLLMQALPM,2,2,False,2025-03-26,2.45,True,X-ray,Peptide-independent T cell receptor recognition of HLA-DQ2
+9EJI,C,sep,DQ,13,QPPASEQEQPVLP,PASEQEQPV,2,2,False,2025-03-26,2.2,True,X-ray,Peptide-independent T cell receptor recognition of HLA-DQ2
+9L1L,E,sep,H2-IA,15,STDYGILQINSRWWA,DYGILQINS,2,2,False,2026-02-18,3.09,False,EM,Structure of anti-HEL AiTab
+9NIG,E,sep,DR,12,DXYXLNYSLPTG,YXLNYSLPT,2,2,False,2025-05-21,3.20008034513,True,X-ray,PB TCR in complex with HLA-DR4 presenting citrullinated Tenascin C peptide
+9NIG,J,sep,DR,11,DXYXLNYSLPT,YXLNYSLPT,2,2,False,2025-05-21,3.20008034513,True,X-ray,PB TCR in complex with HLA-DR4 presenting citrullinated Tenascin C peptide
+9NIH,C,sep,DR,11,DXYXLNYSLPT,YXLNYSLPT,2,2,False,2025-05-21,2.4,False,X-ray,Crystal structure of HLA-DR4 presenting citrullinated Tenascin C peptide
+9RUF,E,sep,DQ,10,XXXXXXXXXX,XXXXXXXXX,8,0,True,2026-07-15,2.9,False,EM,Cryo-EM structure of the LB_DQB0301_A Fab - HLA-DQB1*03:01/DQA1*05:02 human alloantibody-HLA complex
+9RUG,E,sep,DQ,12,XXXXXXXXXXXX,XXXXXXXXX,2,2,False,2026-07-15,2.74,False,EM,Cryo-EM structure of the LB_DQB0303_A Fab - HLA-DQB1*03:03/DQA1*02:01 human alloantibody-HLA complex
+9RUH,A,sep,DQ,12,XXXXXXXXXXXX,XXXXXXXXX,10,2,True,2026-07-15,2.74,False,EM,Cryo-EM structure of the LB_DQB0602_B Fab - HLA-DQB1*06:02/DQA1*01:02 human alloantibody-HLA complex
+9YAF,C,sep,DQ,13,AQPFPQPELPYPG,PFPQPELPY,2,2,False,2026-08-19,3.25,True,X-ray,TCR-HLA-DQ2.5-glia-a1a complex
+9YAF,H,sep,DQ,12,AQPFPQPELPYP,PFPQPELPY,2,2,False,2026-08-19,3.25,True,X-ray,TCR-HLA-DQ2.5-glia-a1a complex
+9YAG,C,sep,DQ,12,QPFPQPEQPFPC,PFPQPEQPF,1,1,False,2026-08-19,3.2,True,X-ray,TCR-HLA-DQ2.5-glia-w1 complex
+9YZ3,E,sep,DR,13,KRFLLAVDVSASM,FLLAVDVSA,2,2,False,2026-09-09,2.87,False,X-ray,Ro60 peptide bound to human HLA-DR3

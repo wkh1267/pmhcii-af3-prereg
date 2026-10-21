@@ -1,0 +1,22 @@
+{
+ "source": "IEDB query API",
+ "endpoint": "https://query-api.iedb.org/mhc_search",
+ "reference_id": 1040686,
+ "citation": "Obermair FJ et al., Sci Adv 2022 (MEDi)",
+ "accessed": "2026-10-13",
+ "unit": "逐等位基因的 (陽性, 陰性) 筆數，標籤取自 qualitative_measure",
+ "alleles": {
+  "HLA-DPA1*02:02/DPB1*05:01": [
+   259,
+   1304
+  ],
+  "HLA-DQA1*03:01/DQB1*03:02": [
+   189,
+   1069
+  ],
+  "HLA-DRB1*15:01": [
+   1485,
+   8345
+  ]
+ }
+}

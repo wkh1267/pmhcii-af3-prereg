@@ -1,0 +1,4 @@
+python 3.12.2
+numpy  1.26.4
+platform Linux 4.18.0-553.153.1.el8_10.x86_64
+generated 2026-10-03T20:29:22+08:00

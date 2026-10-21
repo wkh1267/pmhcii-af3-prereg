@@ -1,0 +1,35 @@
+{
+  "source_rows": 360,
+  "distinct_pdb_entries": 211,
+  "levels": {
+    "per_chain": {
+      "label": "每條胜肽鏈各算一筆（contacts.py 原始輸出）",
+      "n": 360,
+      "mainchain_mean": 46.96,
+      "mainchain_median": 45.66,
+      "anchor_mean": 23.69
+    },
+    "per_structure_peptide": {
+      "label": "先彙總到 (結構, peptide) 再平均",
+      "n": 237,
+      "mainchain_mean": 46.5,
+      "mainchain_median": 45.23,
+      "anchor_mean": 25.04
+    },
+    "per_structure": {
+      "label": "先彙總到 PDB entry 層級再平均",
+      "n": 211,
+      "mainchain_mean": 46.8,
+      "mainchain_median": 45.66,
+      "anchor_mean": 24.77
+    }
+  },
+  "chains_per_pdb_entry": {
+    "1": 102,
+    "2": 87,
+    "3": 6,
+    "4": 15,
+    "6": 1
+  },
+  "mainchain_spread_pp": 0.46
+}

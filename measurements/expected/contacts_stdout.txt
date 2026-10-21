@@ -1,0 +1,17 @@
+instances analysed: 360
+peptide->MHC heavy-atom contacts <= 4.0 A
+  MAIN-CHAIN mediated: mean 47.0%  median 45.7%  IQR 40.4-56.3%
+  side-chain mediated: mean 53.0%
+
+side-chain contacts by core position (share of ALL peptide side-chain contacts):
+  P1:   9.2%   (mean  21.9 contacts)
+  P2:   6.3%   (mean  18.2 contacts)
+  P3:   6.8%   (mean  16.2 contacts)
+  P4:  11.3%   (mean  21.4 contacts)
+  P5:   2.2%   (mean  10.7 contacts)
+  P6:  10.4%   (mean  21.0 contacts)
+  P7:   7.8%   (mean  19.3 contacts)
+  P8:   1.9%   (mean   9.2 contacts)
+  P9:  11.4%   (mean  22.1 contacts)
+
+  P1+P4+P6+P9 together: 42.4% of side-chain contacts, 23.7% of ALL contacts

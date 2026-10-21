@@ -1,0 +1,34 @@
+side-chain contact share by core position, stratified by locus
+aggregation: mean-of-ratios over peptide chains (same as section 05)
+
+ALL  (n=404 chains, 240 entries)
+  P1  12.0%  P2   8.0%  P3   8.4%  P4  13.4%  P5   2.8%  P6  13.6%  P7  10.1%  P8   2.5%  P9  14.6%
+  P1+P4+P6+P9:  53.6%   P7:  10.1% (rank 5)   with P7:  63.7%
+
+DR  (n=185 chains, 109 entries)
+  P1  12.7%  P2   9.6%  P3   8.8%  P4  15.2%  P5   2.5%  P6  10.3%  P7   9.7%  P8   1.7%  P9  14.0%
+  P1+P4+P6+P9:  52.3%   P7:   9.7% (rank 5)   with P7:  62.0%
+
+DQ  (n=89 chains, 53 entries)
+  P1  10.1%  P2   7.0%  P3   9.3%  P4  13.7%  P5   2.4%  P6  15.7%  P7   9.4%  P8   2.3%  P9  18.7%
+  P1+P4+P6+P9:  58.2%   P7:   9.4% (rank 5)   with P7:  67.6%
+
+DP  (n=31 chains, 14 entries)
+  P1  12.4%  P2   7.8%  P3   6.8%  P4  10.2%  P5   3.3%  P6  26.7%  P7  11.6%  P8   2.8%  P9  11.4%
+  P1+P4+P6+P9:  60.6%   P7:  11.6% (rank 3)   with P7:  72.2%
+
+DP robustness
+  per-position spread (share of DP side-chain contacts)
+    P1  mean  12.4%  median  13.7%  min   4.3%  max  23.5% <- in four-pocket set
+    P2  mean   7.8%  median   4.5%  min   0.0%  max  21.2%
+    P3  mean   6.8%  median   6.9%  min   0.0%  max  15.2%
+    P4  mean  10.2%  median  11.2%  min   0.0%  max  20.2% <- in four-pocket set
+    P5  mean   3.3%  median   2.7%  min   0.0%  max   9.4%
+    P6  mean  26.7%  median  27.7%  min  13.6%  max  35.0% <- in four-pocket set
+    P7  mean  11.6%  median  11.8%  min   5.1%  max  16.2% <- P7
+    P8  mean   2.8%  median   1.7%  min   0.0%  max   9.9%
+    P9  mean  11.4%  median   9.5%  min   2.6%  max  27.9% <- in four-pocket set
+  chain-level: P7 > P4 in 18/31,  P7 > P9 in 18/31,  P7 > P1 in 12/31
+  entry-level (n=14, each entry averaged first):
+    P1  13.3%  P2   8.9%  P3   6.6%  P4   8.9%  P5   3.5%  P6  24.3%  P7  11.1%  P8   2.5%  P9  11.9%
+    P1+P4+P6+P9:  58.4%   P7:  11.1% (rank 4)

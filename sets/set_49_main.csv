@@ -1,0 +1,50 @@
+pdb,asym,kind,locus,L,pep,core,p1_index,start,reverse,rel,res,has_tcr,method,title
+27EB,C,sep,DQ,12,APQPEQPFPWQC,PQPEQPFPW,1,1,False,2026-08-26,3.25,True,X-ray,TCR-HLA-DQ2.5-glia-w2 complex
+28ZB,B,fused,DR,12,IKVRVDMVRHRI,VRVDMVRHR,2,2,False,2026-07-08,2.426,False,X-ray,Crystal Structure of HLA class II major histocompatibility complex bound to HCMV-IE1 peptide
+31VO,A,fused,DR,13,AEFRHDSGYEVHH,FRHDSGYEV,2,2,False,2026-09-16,2.0,False,X-ray,Crystal structure of amyloid beta 1-15 fragment bound to HLA-DR1
+7APZ,B,fused,BL,14,MSMSTMNMPMAMKV,MSTMNMPMA,2,2,False,2021-11-03,1.97,False,X-ray,CLIP peptide bound to chicken MHC class II molecule (BL-2) from B2 haplotype with a decamer mode of binding
+7KEI,C,sep,DQ,20,ERNAGSGIIISDGGGGSLVP,NAGSGIIIS,2,2,False,2021-10-13,1.75,False,X-ray,DQA1*01:02/DQB1*06:02 in complex with a hemagglutinin peptide from the H1N1 pandemic flu virus.
+7NZF,C,sep,DR,13,AGFAGEQGPAGEP,FAGEQGPAG,2,2,False,2022-05-11,1.9,False,X-ray,Crystal structure of HLA-DR4 in complex with a mutated human collagen type II peptide
+7O00,C,sep,DR,14,RKPFQSVIADTGIS,FQSVIADTG,3,3,False,2022-05-11,2.24,False,X-ray,Crystal structure of HLA-DR4 in complex with a HSP70 peptide
+7PDY,B,fused,BL,16,PAVVHSVRALMLAERQ,VHSVRALML,3,3,False,2022-08-24,2.54,False,X-ray,A viral peptide from Marek's disease virus bound to chicken MHC-II molecule
+7PDY,D,fused,BL,15,PAVVHSVRALMLAER,VHSVRALML,3,3,False,2022-08-24,2.54,False,X-ray,A viral peptide from Marek's disease virus bound to chicken MHC-II molecule
+7PDY,F,fused,BL,17,RPAVVHSVRALMLAERQ,VHSVRALML,4,4,False,2022-08-24,2.54,False,X-ray,A viral peptide from Marek's disease virus bound to chicken MHC-II molecule
+7QHP,C,sep,H2-IA,13,LQTLALEVEDDPC,TLALEVEDD,2,2,False,2022-07-20,1.82,False,X-ray,Structure of I-Ag7 with a bound hybrid insulin peptide
+7RDV,E,sep,H2-IA,12,EGRVRVNSAYQS,EGRVRVNSA,0,0,False,2022-07-27,2.90006610312,True,X-ray,TFH TCR bound to MHC Class II IAd presenting aggrecan epitope
+7T2A,C,sep,DP,12,TGLAWEWWRTVY,LAWEWWRTV,2,2,False,2022-12-28,3.04,False,X-ray,Crystal structure of HLA-DP4 in complex with Ply
+7T2B,C,sep,DP,14,ATGLAWEWWRTVYE,LAWEWWRTV,3,3,False,2022-12-28,2.8,True,X-ray,Crystal structure of the 5F TCR in complex with HLA-DP4-Ply
+7T2B,I,sep,DP,13,TGLAWEWWRTVYE,LAWEWWRTV,2,2,False,2022-12-28,2.8,True,X-ray,Crystal structure of the 5F TCR in complex with HLA-DP4-Ply
+7T2C,E,sep,DP,12,TGLAWEWWRTVY,LAWEWWRTV,2,2,False,2022-12-28,3.1,True,X-ray,Crystal structure of the B5 TCR in complex with HLA-DP4-Ply
+7T2D,C,sep,DP,14,ATGLAWEWWRTVYE,LAWEWWRTV,3,3,False,2022-12-28,3.4,True,X-ray,Crystal structure of the B1 TCR in complex with HLA-DP4-Ply
+7T6I,C,sep,DP,16,PVADAVIHASGKQMWQ,DAVIHASGK,11,3,True,2022-12-07,2.3,False,X-ray,Crystal structure of HLA-DP1 in complex with pp65 peptide in reverse orientation
+7Z50,I,sep,H2-IA,13,LQTLALEVEDDPC,TLALEVEDD,2,2,False,2022-07-20,2.65,True,X-ray,Structure of the highly diabetogenic 4.1-T cell receptor targeting a hybrid insulin peptide bound to I-Ag7.
+7Z50,J,sep,H2-IA,15,LQTLALEVEDDPCGG,TLALEVEDD,2,2,False,2022-07-20,2.65,True,X-ray,Structure of the highly diabetogenic 4.1-T cell receptor targeting a hybrid insulin peptide bound to I-Ag7.
+7ZAK,C,sep,DP,15,KNLEKYKGKFVREID,KYKGKFVRE,4,4,False,2023-03-29,1.62,False,X-ray,Crystal structure of HLA-DP (DPA1*02:01-DPB1*01:01) in complex with a peptide
+7ZFR,C,sep,DP,12,IEFVFKNKAKEL,EFVFKNKAK,9,1,True,2023-04-12,2.9,False,X-ray,Crystal structure of HLA-DP (DPA1*02:01-DPB1*01:01) in complex with a peptide bound in the reverse direction
+8CMB,C,sep,DR,14,FNCYFPLQSYGFQP,YFPLQSYGF,3,3,False,2023-07-26,1.84,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Spike peptide S486-505
+8CMC,C,sep,DR,14,VLSFELLHAPATVC,FELLHAPAT,3,3,False,2023-07-26,1.42,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Spike peptide S511-530
+8CMD,C,sep,DR,15,TQLNRALTGIAVEQD,NRALTGIAV,3,3,False,2023-07-26,2.54,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Spike peptide S761-775
+8CME,C,sep,DR,15,LSYYKLGASQRVAGD,YKLGASQRV,3,3,False,2023-07-26,2.26,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Membrane peptide M176-190
+8CMF,C,sep,DR,15,KSAFYILPSIISNEK,FYILPSIIS,3,3,False,2023-07-26,2.2,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 nsp3 epitope (orf1ab)1350-1364
+8CMG,C,sep,DR,15,LDAYNMMISAGFSLW,YNMMISAGF,3,3,False,2023-07-26,1.64,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 nsp14 peptide (orf1ab)6420-6434
+8CMH,C,sep,DR,14,FNCYFPLRSYSFRP,YFPLRSYSF,3,3,False,2023-07-26,1.64,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Omicron (BA.1) Spike peptide S486-505
+8CMI,C,sep,DR,15,TQLKRALTGIAVEQD,LKRALTGIA,2,2,False,2023-07-26,2.6,False,X-ray,Human Leukocyte Antigen class II allotype DR1 presenting SARS-CoV-2 Omicron (BA.1) Spike peptide S761-775
+8JR4,C,sep,BAT,13,SFIIRSMPEQTSS,IRSMPEQTS,3,3,False,2024-06-05,2.3,False,X-ray,Molecular structure of bat MHC II at 2.4 A resolution
+8JRJ,C,sep,BAT,12,ASFIIRSMPQET,FIIRSMPQE,2,2,False,2024-06-05,2.5,False,X-ray,Crystal structure of the bat MHC II molecule at 2.8 A resolution
+8JRK,C,sep,BAT,12,NDILSRLDPPEA,ILSRLDPPE,2,2,False,2024-06-05,2.3,False,X-ray,Crystal structure of the bat MHC II molecule at 2.3 A resolution
+8JRK,F,sep,BAT,13,NDILSRLDPPEAS,ILSRLDPPE,2,2,False,2024-06-05,2.3,False,X-ray,Crystal structure of the bat MHC II molecule at 2.3 A resolution
+8RAL,C,sep,H2-IA,13,GLYLEAVPLQVGC,YLEAVPLQV,2,2,False,2024-11-06,2.1,False,X-ray,CL3E peptide bound to the I-Ab murine MHC class II receptor
+8TBP,E,sep,DR,14,VLGLVLLRGENLVS,LVLLRGENL,3,3,False,2024-02-21,3.1262111426,False,X-ray,HLA-DRB1*15:01 in complex with smith antigen
+8VCX,E,sep,DQ,15,GQVELGGGPGAESCQ,ELGGGPGAE,3,3,False,2024-08-07,2.59,True,X-ray,Human TCR A2.13 in complex with DQ8-InsCpep
+8VCY,C,sep,DQ,15,GQVELGGGSSPETCI,ELGGGSSPE,3,3,False,2024-08-07,2.6,True,X-ray,Human TCR A2.13 in complex with DQ8-InsC8-15NPY
+8VD2,C,sep,DQ,14,GQVELGGGTPIESC,ELGGGTPIE,3,3,False,2024-08-07,2.9,True,X-ray,Human TCR ET650-4 in complex with DQ8-InsC8-15-IAPP1
+8VDD,C,sep,DQ,15,GQVELGGGPGAESCQ,ELGGGPGAE,3,3,False,2024-08-07,2.6,False,X-ray,Crystal structure of Proinsulin C-peptide bound to HLA-DQ8
+8VQ8,D,fused,H2-IA,13,QVYSLIRPNENPA,YSLIRPNEN,2,2,False,2025-01-29,2.01,True,X-ray,Immune receptor complex
+8W85,D,fused,DQ,11,IIQPEQPAQLP,IQPEQPAQL,1,1,False,2023-11-08,2.769,False,X-ray,HLA-DQ2.5-gamma2 gliadin peptide in complex with DQN0385AE01
+8W85,H,fused,DQ,10,IIQPEQPAQL,IQPEQPAQL,1,1,False,2023-11-08,2.769,False,X-ray,HLA-DQ2.5-gamma2 gliadin peptide in complex with DQN0385AE01
+8W86,D,fused,DQ,15,EPEQPIPEQPQPYPQ,PIPEQPQPY,4,4,False,2023-11-08,2.236,False,X-ray,HLA-DQ2.5-B/C hordein peptide in complex with DQN0385AE02
+8W86,H,fused,DQ,14,EPEQPIPEQPQPYP,PIPEQPQPY,4,4,False,2023-11-08,2.236,False,X-ray,HLA-DQ2.5-B/C hordein peptide in complex with DQN0385AE02
+9AUD,B,fused,H2-IA,13,QVYSLIRPNENPA,YSLIRPNEN,2,2,False,2025-02-05,2.9,True,X-ray,Immune receptor complex
+9BF9,C,sep,DR,13,SYYKLGASQRVAG,YKLGASQRV,2,2,False,2024-12-25,3.4,False,X-ray,Human LAG-3-HLA-DR1 complex
+9EJI,C,sep,DQ,13,QPPASEQEQPVLP,PASEQEQPV,2,2,False,2025-03-26,2.2,True,X-ray,Peptide-independent T cell receptor recognition of HLA-DQ2
+9YZ3,E,sep,DR,13,KRFLLAVDVSASM,FLLAVDVSA,2,2,False,2026-09-09,2.87,False,X-ray,Ro60 peptide bound to human HLA-DR3

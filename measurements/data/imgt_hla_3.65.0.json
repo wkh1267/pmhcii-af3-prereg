@@ -1,0 +1,16 @@
+{
+ "source": "IPD-IMGT/HLA",
+ "release": "3.65.0",
+ "url": "https://raw.githubusercontent.com/ANHIG/IMGTHLA/3650/Allelelist.txt",
+ "accessed": "2026-10-13",
+ "unit": "相異的二欄位（蛋白質層級）等位基因名稱數",
+ "excluded": "空效等位基因（名稱後綴 N）",
+ "proteins": {
+  "DRA": 20,
+  "DRB1": 2610,
+  "DQA1": 535,
+  "DQB1": 1843,
+  "DPA1": 438,
+  "DPB1": 1799
+ }
+}
