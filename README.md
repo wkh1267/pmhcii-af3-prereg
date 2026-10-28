@@ -60,8 +60,9 @@ P1/P4/P6/P9 側鏈 29.7%）。
 請逐層手動執行 `scripts/` 下的對應腳本。
 
 其餘腳本各自以參數吃入 `measurements/data/` 下的檔案，用法見每支腳本的 docstring。
-四個分析集合可由 `python3 -I sets/export_sets.py` 重新導出，該腳本附 13 條 assert，
-全部通過才寫出。
+四個分析集合可由 `python3 -I sets/export_sets.py measurements <輸出目錄>` 重新導出，
+該腳本附 13 條 assert，全部通過才寫出。
+⚠ **兩個參數不可省**：腳本的預設路徑指向本版本庫沒有的 `proposal/`，無參數會失敗。
 
 ## 不在這個版本庫裡的東西
 

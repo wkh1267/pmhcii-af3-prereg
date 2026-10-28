@@ -41,7 +41,7 @@ EXCL_REV = {"9A0U": "class I 的 M1 胜肽誤納，orient −0.144（本工具�
 # 而 §02A 已把該參數（S1）標為「無依據、已證實有偏誤、**已撤銷**」。它在 DP 上唯一
 # 砍掉的結構是 **3WEX —— 焦點 allele DPA1*02:02/DPB1*05:01**，套用後焦點 allele 的
 # ground-truth register 數會變成 0。該門檻實際量的是「離 1DLH（HLA-DR1）參考框架多遠」：
-# 淘汰率 DR 0.0% / DQ 5.4% / DP 12.9% / 小鼠 30–36% / 牛 85.7%。見 reports/
+# 淘汰率 DR 0.0% / DQ 5.4% / DP 12.9% / 小鼠 30–36% / 雞 BL 85.7%。見 reports/
 # DP_STRUCTURE_AUDIT_20261007.md §5.1 與 scripts/dp_diversity.py。
 reg = json.load(open(os.path.join(ROOT, "data", "registers_nothresh.json")))
 seen, rows = set(), []

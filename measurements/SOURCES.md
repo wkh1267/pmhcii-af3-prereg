@@ -15,7 +15,7 @@ NetMHCIIpan 的資料檔，六個數字一個都不能重跑」。2026-10-13 改
 | 4 | IPD-IMGT/HLA 等位基因數 | **在手**，`data/imgt_hla_3.65.0.json` | `scripts/fetch_imgt.py` |
 | 5 | MEDi（Obermair 2022） | **在手**，`data/medi_iedb_1040686.json` | `scripts/fetch_iedb.py` |
 | 6 | NetMHCIIpan-4.2 BA 訓練資料 | **待取得** | DTU 下載頁，見下 |
-| 7 | Ko 2026 benchmark 補充檔 | **在手**，`reference/media-1.xlsx`（repo 根） | 論文 Additional File 1 |
+| 7 | Ko 2026 benchmark 補充檔 | **在手**，`reference/media-1.xlsx`（repo 根） | **preprint（bioRxiv 2024.10.06.616783）的補充檔**，⚠ 不是期刊版的 Additional File 1，詳本檔 §7 |
 
 ---
 

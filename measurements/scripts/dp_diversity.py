@@ -257,5 +257,5 @@ for k in ["DR", "DQ", "DP", "H2-IA", "H2-IE", "BL"]:
     if not v: continue
     bad = sum(1 for x in v if x > 3.0)
     print(f"   {k:8s} {len(v):5d} {bad:5d} {100*bad/len(v):6.1f}% {v[len(v)//2]:10.2f}")
-print(f"\n   → 這不是品質過濾，是**與參考框架的相似度過濾**。DR 0%、DP 12.9%、牛 BL 85.7%。")
+print(f"\n   → 這不是品質過濾，是**與參考框架的相似度過濾**。DR 0%、DP 12.9%、雞 BL 85.7%。")
 print(f"     它系統性地懲罰非 DR 的 locus，而本論文的焦點正是非 DR。")

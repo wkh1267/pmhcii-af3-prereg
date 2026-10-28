@@ -116,7 +116,7 @@ print("       幾何過濾：α/β 各 ≥40 個對位殘基、胜肽 ≥9 殘�
 print("       α 與胜肽質心距 ≤40 Å、疊合錨點 ≥60 個。全部有名字、可重跑。")
 print(f"    ⚠ S1（疊合 RMSD ≤ 3.0）**已停用**。套用它會再砍 {len(nt)-len(th)} 個實例 / "
       f"{len(inst_pdbs)-len({r['pdb'] for r in th})} 個 entry，")
-print("       其中含焦點 allele 的唯一結構 3WEX。淘汰率逐 locus 不對稱（DR 0.0% → 牛 85.7%）。")
+print("       其中含焦點 allele 的唯一結構 3WEX。淘汰率逐 locus 不對稱（DR 0.0% → 雞 BL 85.7%）。")
 
 # ── 第三段：各已發表數字的分母 ──────────────────────────────────────
 # contacts_fixed.py:60 的實際規則：start 為 None，或**觀測序列任一處**含 X 即排除

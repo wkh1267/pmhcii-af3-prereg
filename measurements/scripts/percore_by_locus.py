@@ -56,7 +56,7 @@ print("aggregation: mean-of-ratios over peptide chains (same as section 05)")
 print(locus_note())
 print()
 # ⚠ locus 一律經 locus_of()，否則 3 筆蝙蝠會算進 DR（見 scripts/locus_fix.py）
-# ALL **包含**蝙蝠 —— §01 本來就是跨物種量測（已含小鼠、雞、牛），排掉蝙蝠反而不一致。
+# ALL **包含**蝙蝠 —— §01 本來就是跨物種量測（已含小鼠、雞），排掉蝙蝠反而不一致。
 # 要排掉的只有 DR 那一列：蝙蝠不是人類 DR。
 block("ALL", rows)
 print()
