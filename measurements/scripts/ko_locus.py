@@ -4,7 +4,7 @@
 來源：Ko et al. preprint（bioRxiv 2024.10.06.616783）的補充檔 media-1.xlsx。
 ⚠ 不是期刊版（BMC Med Genomics 2026;19(Suppl 1):120）的 Additional File 1——
   期刊版欄位不同（多 IEDB 負例與 Epitope ID、沒有 α/β 鏈欄），本支依賴 α/β 欄，
-  餵期刊版會先在下方第 26–27 行的物種 assert 爆掉。詳 SOURCES.md 第 7 列。
+  餵期刊版會在下方的 assert 爆掉（先是筆數、再是物種組成）。詳 SOURCES.md 第 7 列。
       doi:10.1186/s12920-026-02432-4
 
 用法：python3 -I ko_locus.py <path/to/media-1.xlsx>

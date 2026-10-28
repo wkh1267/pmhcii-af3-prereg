@@ -11,7 +11,7 @@
 | 目錄／檔案 | 內容 |
 |---|---|
 | [`PREREGISTRATION.md`](PREREGISTRATION.md) | 繳交版第三章「研究方法」全文，逐字收錄：操作型定義、計算流程與閘門規範、三個目標的設計、主要終點階層。送出後不再更動 |
-| [`ERRATA.md`](ERRATA.md) | 提案圖 5 的勘誤。該圖所需的逐筆資料不存在於公開來源，已停止引用 |
+| [`ERRATA.md`](ERRATA.md) | **兩條**勘誤：(1) 反向組的建模路徑在實測條件下無效力（Boltz-2 的 contact constraint 無法指定 register，符合率 0/15），(2) 提案圖 5 所需的逐筆資料不存在於公開來源，已停止引用 |
 | `measurements/` | 量測的腳本、資料、黃金檔與 291 個 mmCIF。內有自己的 `README.md` 與 `SOURCES.md` |
 | `sets/` | 四個分析集合的逐筆 PDB 代碼清單，與產生它們的腳本 |
 

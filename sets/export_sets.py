@@ -8,7 +8,10 @@ PDB ID 清單檔。holdout_leakage.py 會把它們算出來，但只印逐基因
 本檔不重新推導，只是把 holdout_leakage.py 既有的過濾鏈接上輸出，再用初稿已載的
 計數當 assert。任一條對不上就整支失敗，不會寫出半套檔案。
 
-    python3 -I tools/export_sets.py [驗證包路徑] [輸出目錄]
+    python3 -I sets/export_sets.py <驗證包路徑> <輸出目錄>
+
+⚠ 在本版本庫中兩個參數不可省：驗證包路徑應為 `measurements`。腳本的預設值指向
+  私有 repo 的 `proposal/verify_contacts_20261003`，本庫沒有該目錄。
 
 預設路徑：thesis/proposal/verify_contacts_20261003 與 tools/out/
 """

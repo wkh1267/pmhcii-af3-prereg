@@ -19,10 +19,12 @@
 
 引用任何比率時必須標明用的是哪一層。另有兩個在其他文件中出現的層級：
 人類 `locus_of` 層 222，以及預先登記表 1 的過濾層 **268 組／240 結構**
-（310 扣除 9A0U 與 38 列非標準殘基 core）。
+（310 扣除 core 為空或含非標準殘基的 41 列、與 9A0U 的 2 列，兩者重疊 1 列，淨扣 42）。
 
 ⚠ **BL 是雞**（Gallus gallus 的 B-locus class II／BL-2），**BAT 是蝙蝠**。
-PDB 全庫沒有任何牛（BoLA）的 class II 結構。
+本版本庫收錄的 291 個複合體中沒有任何牛（BoLA）的 class II 結構。
+⚠ 這是**結構層**的陳述；`PREREGISTRATION.md:42` 提到的「牛」指 Racle 2023 在
+**ligand/motif 層**涵蓋的 BoLA-DR 等位基因，兩者層級不同，並不衝突。
 
 ## 二、`reverse` 欄有三筆是偽陽性，不可直接統計
 
@@ -31,15 +33,15 @@ CSV 的 `reverse=True` 共 7 筆，其中**僅 4 筆可採信**：
 | PDB | locus | 採信？ | 理由 |
 |---|---|---|---|
 | 3PGC | DR | ✓ | HLA-DR1＋CLIP106-120，X-ray 2.66 Å，RCSB 標題即「flipped peptide orientation」 |
-| 4AEN | DR | ✓ | 同上，(G4S)₃ 共價接 α 鏈，2.20 Å |
+| 4AEN | DR | ✓ | 同上，(G4S)₃ **共價接 α 鏈的人工構築**，2.20 Å。⚠ 預先登記 :112 自述其反向為設計所致，引用時須與自由胜肽的 3PGC 分開 |
 | 7T6I | DP | ✓ | HLA-DP1＋CMV pp65，2.30 Å |
 | 7ZFR | DP | ✓ | HLA-DP（DPA1\*02:01-DPB1\*01:01），2.90 Å |
 | 9A0U | DR | ✗ | `method=Integrative`（對接模型，非實驗結構）；且被判為反向的鏈其序列為 `GILGFVFTL`，那是 MHC **class I** 表位，被誤派到 class II 框架。該結構真正的 class II 胜肽在另一條鏈且判為正向 |
 | 9RUF | DQ | ✗ | 胜肽建模為 poly-UNK（序列未知），register 無定義 |
 | 9RUH | DQ | ✗ | 同上 |
 
-扣除後的結構層反向率：**DP 2/14 ＝ 14.3%、DR 2/140 ＝ 1.4%、DQ 0/56 ＝ 0%**
-（相異 entry 層）。
+扣除後，HLA-DP 的結構層反向率為 **2/14 ＝ 14.3%**（相異 entry 層）。
+⚠ HLA-DR 與 HLA-DQ 的對應數字**不在此並列**——理由見下方第三節。
 
 ⚠ **同批的 9RUG 條件完全相同（同日釋出、同樣 poly-UNK）卻被判為正向。** 三筆並列即可
 看出：方向判定在退化輸入上的輸出是隨機的。使用本欄時必須先套上述排除規則，
